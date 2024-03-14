@@ -13,7 +13,7 @@ installation and running scripts.
     # Install R packages
     install.packages("Seurat")
     install.packages("scCustomize")
-    install.packages("reticulate)
+    install.packages("reticulate")
 
 ## Python Packages
 
